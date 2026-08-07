@@ -1,5 +1,0 @@
-hello-agents[all]>=0.2.0
-requests
-beautifulsoup4
-python-dotenv
-huggingface_hub

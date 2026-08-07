@@ -1,2 +1,0 @@
-hello_agents==0.2.8
-python-dotenv==1.2.2

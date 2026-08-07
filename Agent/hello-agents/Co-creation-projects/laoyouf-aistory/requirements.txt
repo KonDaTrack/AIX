@@ -1,2 +1,0 @@
-# 核心依赖
-hello-agents[all]>=0.2.7
